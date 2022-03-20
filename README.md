@@ -1,1 +1,1 @@
-# -Official-Implementation-of-MSSGAT
+# <pattern recognition>
