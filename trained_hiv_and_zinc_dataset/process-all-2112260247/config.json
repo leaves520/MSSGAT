@@ -1,0 +1,1 @@
+{"data_path": "./dataset/molnet/hiv.csv", "hidden_state_size": 64, "gpu": 0, "epochs": 150, "seed": 0, "reprocess": true, "earlystop": true, "patience": 10, "workers": 8, "trn": false, "save": "./result_save/hiv/process-all-2112260247", "model": "all", "head": 5, "conv": 2, "rhead": 5, "rconv": 3, "bs": 256, "dataset_name": "hiv", "vocab": "./dataset/vocabulary_molnet.txt"}
